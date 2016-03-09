@@ -1,6 +1,6 @@
 FossickersDoom Changelog:
-March 9, 2016:
-	-MULTIPLAYER!
-	-New Blocks
-	-New player creator.
-	-HEAPS MORE!
+VERSION 1.3.1:
+	-Re-did player.
+	-Fixed version Labeling.
+	-Minor Bug fixes.
+	-Removed old name and replaced with new.
