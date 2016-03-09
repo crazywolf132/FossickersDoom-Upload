@@ -1,3 +1,6 @@
-PixelZombies Changelog:
-March 24, 2013:
-	-Launcher updated with displaying changelog capabilities
+FossickersDoom Changelog:
+March 9, 2016:
+	-MULTIPLAYER!
+	-New Blocks
+	-New player creator.
+	-HEAPS MORE!
