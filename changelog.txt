@@ -1,6 +1,7 @@
 FossickersDoom Changelog:
-VERSION 1.3.2:
+VERSION 1.3.3:
 	-Added new In-game Items.
-	-New Upgrader block.
-	-Minor Bug fixes.
-	-Preparing for new mobs.
+	-New Upgraded Items.
+	-TONS OF BUG FIXES!
+	-Re-arranged sprite sheet for better use.
+	-New Items added to be added to game next update.
