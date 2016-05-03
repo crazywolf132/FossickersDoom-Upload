@@ -16,30 +16,19 @@
  </image>
 
 <item>
- <title>Attack Update</title>
- <link>http://www.downes.ca</link>
+ <title>1.0 BETA</title>
  <description>
- OK, here's where we stand. I have no email into
-or out of downes.ca - this means that if you are sending me
-email to stephen@downes.ca it will fail. It also means that
-newsletter mailouts are failing (at least, I think they're
-failing...). Additionally, all scheduled processes have
-terminated, which means that Edu_RSS will be updated
-manually. I have no tech support until at least tomorrow,
-so it looks like we'll be limping along like this for a
-bit. Again, please note, email sent to me at downes.ca is
-not reaching me. By Stephen Downes, Stephen's Web, July
-22, 2003
+ Re did everything. Now there is a plugin system and a new launcher.
  </description>
  </item>
  <item>
- <title>Attack on Downes.ca</title>
- <link>http://www.downes.ca</link>
+ <title>Version 1.3.3</title>
  <description>
- Downes.ca was off the air for a few days
-following a denial of service attack. We are back for now
-but things are still touch and go. I'll keep you posted. 
-By Stephen Downes, July 21, 2003
+	-Added new In-game Items.
+	-New Upgraded Items.
+	-TONS OF BUG FIXES!
+	-Re-arranged sprite sheet for better use.
+	-New Items added to be added to game next update.
  </description>
  </item>
  </channel>
